@@ -1,1 +1,1 @@
-# DEMO
+Just one of my side projects
